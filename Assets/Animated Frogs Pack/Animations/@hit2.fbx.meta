@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 69d4a2eb532dba042a95460cfae581d9
+timeCreated: 1490358640
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: big_toe.L
+    100004: big_toe.L_end
+    100006: big_toe.R
+    100008: big_toe.R_end
+    100010: chest
+    100012: foot.L
+    100014: foot.R
+    100016: forearm.L
+    100018: forearm.R
+    100020: frog
+    100022: //RootNode
+    100024: head
+    100026: head_end
+    100028: hip.L
+    100030: hip.R
+    100032: jaw
+    100034: jaw_end
+    100036: middle_finger.L
+    100038: middle_finger.L_end
+    100040: middle_finger.R
+    100042: middle_finger.R_end
+    100044: middle_toe.L
+    100046: middle_toe.L_end
+    100048: middle_toe.R
+    100050: middle_toe.R_end
+    100052: neck
+    100054: Root
+    100056: scapula.L
+    100058: scapula.R
+    100060: shin.L
+    100062: shin.R
+    100064: shoulder.L
+    100066: shoulder.R
+    100068: thumb.L
+    100070: thumb.L_end
+    100072: thumb.R
+    100074: thumb.R_end
+    100076: tongue
+    100078: tongue_end
+    400000: Armature
+    400002: big_toe.L
+    400004: big_toe.L_end
+    400006: big_toe.R
+    400008: big_toe.R_end
+    400010: chest
+    400012: foot.L
+    400014: foot.R
+    400016: forearm.L
+    400018: forearm.R
+    400020: frog
+    400022: //RootNode
+    400024: head
+    400026: head_end
+    400028: hip.L
+    400030: hip.R
+    400032: jaw
+    400034: jaw_end
+    400036: middle_finger.L
+    400038: middle_finger.L_end
+    400040: middle_finger.R
+    400042: middle_finger.R_end
+    400044: middle_toe.L
+    400046: middle_toe.L_end
+    400048: middle_toe.R
+    400050: middle_toe.R_end
+    400052: neck
+    400054: Root
+    400056: scapula.L
+    400058: scapula.R
+    400060: shin.L
+    400062: shin.R
+    400064: shoulder.L
+    400066: shoulder.R
+    400068: thumb.L
+    400070: thumb.L_end
+    400072: thumb.R
+    400074: thumb.R_end
+    400076: tongue
+    400078: tongue_end
+    4300000: frog
+    7400000: Armature|hit2
+    9500000: //RootNode
+    13700000: frog
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
