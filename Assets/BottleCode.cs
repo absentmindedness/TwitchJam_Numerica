@@ -194,16 +194,19 @@ public class BottleCode : MonoBehaviour
     void Update()
     {
         //debug
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.RightShift))
         {
-            chosenDirection = 1;
-            increaseFacing();
+            if (Input.GetKeyDown(KeyCode.RightArrow))
+            {
+                chosenDirection = 1;
+                increaseFacing();
+            }
+            if (Input.GetKeyDown(KeyCode.LeftArrow))
+            {
+                chosenDirection = -1;
+                increaseFacing();
+            }
         }
-		if (Input.GetKeyDown(KeyCode.LeftArrow))
-		{
-			chosenDirection = -1;
-			increaseFacing();
-		}
 
 		//float wantedAngle = facingToAngle(currentFacing);
         if (chosenDirection > 0)
